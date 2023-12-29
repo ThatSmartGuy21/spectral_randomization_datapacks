@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:stripped_ebony_noxcap_hyphae"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:ebony_noxwood_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 100
+  }

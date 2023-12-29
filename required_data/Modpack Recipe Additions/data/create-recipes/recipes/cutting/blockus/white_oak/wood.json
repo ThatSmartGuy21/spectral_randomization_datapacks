@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "blockus:white_oak_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "blockus:stripped_white_oak_wood"
+      }
+    ],
+    "processingTime": 50
+  }

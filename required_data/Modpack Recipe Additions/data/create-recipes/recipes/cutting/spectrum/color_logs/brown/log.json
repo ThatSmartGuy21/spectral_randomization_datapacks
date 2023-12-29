@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:brown_log"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_brown_log"
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "natures_spirit:stripped_cypress_log"
+      }
+    ],
+    "results": [
+      {
+        "item": "natures_spirit:cypress_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 50
+  }

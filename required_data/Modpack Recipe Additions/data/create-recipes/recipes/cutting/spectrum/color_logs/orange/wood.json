@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:orange_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_orange_wood"
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "natures_spirit:redwood_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "natures_spirit:stripped_redwood_wood"
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:stripped_gray_log"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:gray_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 50
+  }

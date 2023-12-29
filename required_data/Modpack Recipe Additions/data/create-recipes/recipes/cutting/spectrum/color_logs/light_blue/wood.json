@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:light_blue_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_light_blue_wood"
+      }
+    ],
+    "processingTime": 50
+  }

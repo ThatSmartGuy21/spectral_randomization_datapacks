@@ -1,0 +1,28 @@
+{
+    "filters": [
+      {
+        "id": "/emi:create/shapeless/garnished/wood./"
+      },
+      {
+        "id": "/emi:create/shapeless/minecraft/.*_planks/"
+      },
+      {
+        "id": "/emi:create/shapeless/natures_spirit/.*_planks/"
+      },
+      {
+        "id": "/emi:create/shapeless/pearfection/.*_planks/"
+      },
+      {
+        "id": "/emi:create/shapeless/spectrum/.*_planks/"
+      },
+      {
+        "id": "/emi:create/shapeless/blockus/.*_planks/"
+      },
+      {
+        "id": "/emi:create/shapeless/deeperdarker/.*_planks/"
+      },
+      {
+        "id": "/emi:create/shapeless/botania/.*_planks/"
+      }
+    ]
+  }

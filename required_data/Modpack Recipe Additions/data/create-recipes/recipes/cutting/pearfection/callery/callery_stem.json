@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "pearfection:callery_stem"
+      }
+    ],
+    "results": [
+      {
+        "item": "pearfection:stripped_callery_stem"
+      }
+    ],
+    "processingTime": 50
+  }

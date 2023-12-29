@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:stripped_slate_noxcap_hyphae"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:slate_noxwood_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 100
+  }

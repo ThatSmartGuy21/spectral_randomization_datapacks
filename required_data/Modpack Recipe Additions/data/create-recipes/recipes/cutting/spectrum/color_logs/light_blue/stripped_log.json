@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:stripped_light_blue_log"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:light_blue_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 50
+  }

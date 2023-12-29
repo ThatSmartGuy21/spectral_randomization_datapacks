@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:stripped_black_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:black_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 50
+  }

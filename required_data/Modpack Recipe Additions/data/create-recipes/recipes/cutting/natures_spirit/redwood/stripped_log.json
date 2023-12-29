@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "natures_spirit:stripped_redwood_log"
+      }
+    ],
+    "results": [
+      {
+        "item": "natures_spirit:redwood_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 50
+  }

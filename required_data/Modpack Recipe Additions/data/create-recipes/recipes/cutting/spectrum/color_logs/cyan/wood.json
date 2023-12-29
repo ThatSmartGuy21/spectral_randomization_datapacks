@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:cyan_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_cyan_wood"
+      }
+    ],
+    "processingTime": 50
+  }

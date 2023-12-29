@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "pearfection:callery_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "pearfection:stripped_callery_wood"
+      }
+    ],
+    "processingTime": 50
+  }

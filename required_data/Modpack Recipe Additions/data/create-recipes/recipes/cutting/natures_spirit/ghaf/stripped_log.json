@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "natures_spirit:stripped_ghaf_log"
+      }
+    ],
+    "results": [
+      {
+        "item": "natures_spirit:ghaf_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 50
+  }

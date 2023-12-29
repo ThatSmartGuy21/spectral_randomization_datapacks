@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:yellow_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_yellow_wood"
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:pink_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_pink_wood"
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Removes recipes from view that really shouldn't be shown (they dont work or something similar)",
+        "pack_format": 15
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:lime_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_lime_wood"
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:stripped_green_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:green_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 50
+  }

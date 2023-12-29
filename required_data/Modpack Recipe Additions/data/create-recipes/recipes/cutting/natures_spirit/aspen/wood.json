@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "natures_spirit:aspen_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "natures_spirit:stripped_aspen_wood"
+      }
+    ],
+    "processingTime": 50
+  }

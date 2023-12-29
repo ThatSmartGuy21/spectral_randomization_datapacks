@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:slate_noxcap_stem"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_slate_noxcap_stem"
+      }
+    ],
+    "processingTime": 100
+  }

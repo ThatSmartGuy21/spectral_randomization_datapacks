@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "natures_spirit:joshua_log"
+      }
+    ],
+    "results": [
+      {
+        "item": "natures_spirit:stripped_joshua_log"
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "spectrum:slate_noxcap_hyphae"
+      }
+    ],
+    "results": [
+      {
+        "item": "spectrum:stripped_slate_noxcap_hyphae"
+      }
+    ],
+    "processingTime": 100
+  }

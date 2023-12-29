@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "pearfection:stripped_callery_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "pearfection:callery_planks",
+        "count": 6
+      }
+    ],
+    "processingTime": 50
+  }
