@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "p p",
+      "m m",
+      "mem"
+    ],
+    "key": {
+      "e": {
+        "item": "botania:mana_pearl"
+      },
+      "m": {
+        "item": "spelunkery:magnetite_chunk"
+      },
+      "p": {
+        "item": "things:gleaming_powder"
+      }
+    },
+    "result": {
+      "item": "things:item_magnet"
+    }
+  }

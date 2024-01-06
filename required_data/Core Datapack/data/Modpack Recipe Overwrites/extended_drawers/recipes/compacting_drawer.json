@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "C": {
+        "item": "minecraft:chest"
+      },
+      "I": {
+        "item": "minecraft:iron_block"
+      },
+      "P": {
+        "item": "create:mechanical_press"
+      },
+      "S": {
+        "tag": "minecraft:stone_crafting_materials"
+      }
+    },
+    "pattern": [
+      "SPS",
+      "CIC",
+      "SPS"
+    ],
+    "result": {
+      "item": "extended_drawers:compacting_drawer"
+    }
+  }

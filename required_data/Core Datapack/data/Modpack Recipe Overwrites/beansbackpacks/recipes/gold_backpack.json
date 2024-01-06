@@ -1,0 +1,9 @@
+{
+    "type": "beansbackpacks:crafting",
+    "material":  "minecraft:gold_ingot",
+    "binder": "botania:manaweave_cloth",
+    "name": "Gold Backpack",
+    "key": "gold",
+    "kind": "METAL",
+    "max_stacks": 9
+  }

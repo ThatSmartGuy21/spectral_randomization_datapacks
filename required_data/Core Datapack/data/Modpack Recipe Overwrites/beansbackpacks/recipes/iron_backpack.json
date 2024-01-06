@@ -1,0 +1,9 @@
+{
+    "type": "beansbackpacks:crafting",
+    "material":  "minecraft:iron_ingot",
+    "binder": "botania:manaweave_cloth",
+    "name": "Iron Backpack",
+    "key": "iron",
+    "kind": "METAL",
+    "max_stacks": 9
+  }
