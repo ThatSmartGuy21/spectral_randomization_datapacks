@@ -6,7 +6,7 @@
     },
     {
       "amount": 40500,
-      "fluid": "spelunkery:dimensional_fluid",
+      "fluid": "spelunkery:portal_fluid",
       "nbt": {}
     }
   ],
