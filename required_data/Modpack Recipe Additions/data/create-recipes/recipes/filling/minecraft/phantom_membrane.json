@@ -6,7 +6,7 @@
       },
       {
         "amount": 20250,
-        "fluid": "garnished:mastic_resin",
+        "fluid": "create_enchantment_industry:experience",
         "nbt": {}
       }
     ],

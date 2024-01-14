@@ -5,9 +5,8 @@
       "item": "botania:mana_powder"
     },
     {
-      "amount": 40500,
       "fluid": "spelunkery:portal_fluid",
-      "nbt": {}
+      "amount": 40500
     }
   ],
   "results": [

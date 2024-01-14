@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "tag": "create:copper_casing"
+      },
+      {
+        "item": "spelunkery:nephrite_siphon"
+      }
+    ],
+    "results": [
+      {
+        "item": "create_enchantment_industry:disenchanter"
+      }
+    ]
+  }
