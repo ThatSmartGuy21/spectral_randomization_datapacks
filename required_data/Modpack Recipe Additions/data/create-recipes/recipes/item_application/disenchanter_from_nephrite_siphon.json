@@ -2,7 +2,7 @@
     "type": "create:item_application",
     "ingredients": [
       {
-        "tag": "create:copper_casing"
+        "item": "create:copper_casing"
       },
       {
         "item": "spelunkery:nephrite_siphon"
