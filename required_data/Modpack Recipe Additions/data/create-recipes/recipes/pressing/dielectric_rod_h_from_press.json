@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "powah_dielectric_rod"
+      }
+    ],
+    "results": [
+      {
+        "item": "powah_dielectric_rod_horizontal"
+      }
+    ]
+  }
