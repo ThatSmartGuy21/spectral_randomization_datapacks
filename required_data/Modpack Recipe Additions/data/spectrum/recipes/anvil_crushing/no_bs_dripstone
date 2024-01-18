@@ -1,0 +1,14 @@
+{
+    "type": "spectrum:anvil_crushing",
+    "ingredient": {
+      "item": "minecraft:dripstone_block"
+    },
+    "crushedItemsPerPointOfDamage": 1,
+    "experience": 0,
+    "result": {
+      "item": "minecraft:pointed_dripstone",
+      "count": 3
+    },
+    "particleEffectIdentifier": "cloud",
+    "soundEventIdentifier": "block.stone.break"
+  }
