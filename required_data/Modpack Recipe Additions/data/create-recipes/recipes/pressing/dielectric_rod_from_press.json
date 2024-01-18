@@ -2,12 +2,12 @@
     "type": "create:pressing",
     "ingredients": [
       {
-        "item": "powah_dielectric_rod_horizontal"
+        "item": "powah:dielectric_rod_horizontal"
       }
     ],
     "results": [
       {
-        "item": "powah_dielectric_rod"
+        "item": "powah:dielectric_rod"
       }
     ]
   }
